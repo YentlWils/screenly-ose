@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Upgrading Screenly..."
-curl -sL https://raw.github.com/wireload/screenly-ose/master/misc/upgrade.sh | bash
+curl -sL https://raw.githubusercontent.com/YentlWils/screenly-ose/master/misc/upgrade.sh | bash
 
 echo "Installing Stunnel..."
 sudo apt-get -y -qq install stunnel4
