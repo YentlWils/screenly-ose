@@ -30,6 +30,9 @@ pip-log.txt
 # VIM
 *.swp
 
+# Node packages
+node_modules/
+
 .DS_Store
 .fseventsd/*
 .Spotlight-V100/*
