@@ -40,7 +40,7 @@ browser = None
 VIDEO_TIMEOUT = 20  # secs
 
 HOME = None
-arch = armv71
+arch = 'armv71'
 db_conn = None
 
 
